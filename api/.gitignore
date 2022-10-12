@@ -1,0 +1,4 @@
+﻿Migrations/
+bin/
+obj/
+*.csproj*
